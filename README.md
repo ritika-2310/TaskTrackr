@@ -24,25 +24,11 @@ JavaScript – dynamic behavior and interactivity.
 <br><br>
 💡 How to Use
 <br><br>
-Open index.html in a browser.
-<br>
 Enter a task in the input box.
 <br>
 Click Add to add it to the list.
 <br>
 Remove a task when it’s done.
-<br><br>
-Installation & Setup
-<br><br>
-Download or clone this repository:
-<br>
-git clone https://github.com/your-username/todo-list.git
-<br><br>
-Navigate into the project folder:
-<br>
-cd todo-list
-<br><br>
-Open index.html in your preferred browser — that’s it!
 <br><br>
 📝 Notes
 <br><br>
