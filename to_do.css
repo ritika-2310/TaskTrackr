@@ -1,0 +1,48 @@
+#heading{
+    background-color : black;
+    color : white;
+    text-transform : capitalize;
+    border : 3px solid white;
+    text-align : center;
+    font-size : 50px;
+}
+#input{
+    margin-top : 20px;
+    margin-left : 500px;
+    font-size : 25px;
+}
+button{
+    background-color : cyan;
+    font-size : 25px;
+    border-radius : 10px;
+    cursor : pointer;
+}
+button:hover{
+    background-color : pink;
+}
+#container{
+    background-color : lightblue;
+    font-family : sans-serif;
+    border : 2px solid black;
+    margin : 20px;
+    height : 450px;
+}
+#tasklist{
+    list-style-type : none;
+    margin-top : 20px;
+}
+li{
+    color : #000080;
+    background-color :rgb(173, 111, 184);
+    display : flex;
+    justify-content : center;
+    align-items : center;
+    border-radius : 8px;
+    font-size : 30px;
+    text-transform : capitalize;
+    margin-right : 20px;
+}
+.completed{
+    text-decoration : line-through;
+    color : gray;
+}
