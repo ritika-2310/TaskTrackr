@@ -55,7 +55,8 @@ Lightweight and easy to customize.
 👨‍💻 Credits
 <br><br>
 Developer: Ritika Bhasin, B.Tech IT Student, IPU (Batch 2028)<br>
-Library Used: None (Pure HTML, CSS, and JavaScript)<br>
+Library Used: None (Pure HTML, CSS, and JavaScript)
+<br><br>
 Concepts Implemented
 <br><br>
 DOM Manipulation – Selecting, creating, and removing HTML elements dynamically.
